@@ -1,0 +1,500 @@
+Schulnummer;Schulname;Angemeldete SuS;Unterrichtete SuS;Unterrichtete Schulen;Freier Träger
+01G01;Grundschule am Arkonaplatz;2;2;;Intellego
+01G02;Papageno-Grundschule;9;16;;Intellego
+01G04;Kastanienbaum-Grundschule;10;19;;tjfbg gGmbH
+01G05;Grundschule Neues Tor;14;11;;tjfbg gGmbH
+01G07;GutsMuths-Grundschule;1;1;;tjfbg gGmbH
+01G08;Grundschule am Brandenburger Tor;16;16;;tjfbg gGmbH
+01G10;City-Grundschule;54;;;Studierende machen Schule
+01G15;Anne-Frank-Grundschule;14;15;;Frecher Spatz e.V.
+01G16;Moabiter-Grundschule;22;24;;tjfbg gGmbH
+01G18;Carl-Bolle-Grundschule;40;40;;Studierende machen Schule
+01G19;Hansa-Grundschule;4;4;;Frecher Spatz e.V.
+01G25;Rudolf-Wissell-Grundschule;28;24;;Studierende machen Schule
+01G27;Gesundbrunnen Grundschule;;18;;Kiezküchen Bildungsmarkt
+01G28;Brüder-Grimm-Grundschule;54;36;;Studienkreis GmbH
+01G29;Wilhelm-Hauff-Grundschule;29;24;;tjfbg gGmbH
+01G31;Wedding-Schule;19;19;;tjfbg gGmbH
+01G32;Carl-Krämer-Grundschule;39;39;;Frecher Spatz e.V.
+01G35;Humboldthain-Grundschule;20;12;;tjfbg gGmbH
+01G36;Andersen-Grundschule;15;30;;tjfbg gGmbH
+01G38;Gustav-Falke-Grundschule;50;33;;Frecher Spatz e.V.
+01G39;Vineta-Grundschule;16;16;;tjfbg gGmbH
+01G42;Anna-Lindh-Schule;46;46;;ZGS Bildungs-GmbH (Schülerhilfe)
+01G44;Allegro Grundschule;28;;;Studierende machen Schule
+01G45;Leo-Lionni-Grundschule;21;16;;tjfbg gGmbH
+01G46;Grundschule am Koppenplatz;30;32;;Intellego
+01G47;Miriam-Makeba-Grundschule;9;;;Studierende machen Schule
+01K01;Willy-Brandt-Schule;26;52;;tjfbg gGmbH
+01K02;Ernst-Schering-Schule;37;43;;tjfbg gGmbH
+01K03;Ernst-Reuter-Schule;31;16;;Netzwerk Großbeerenstraße
+01K04;Heinrich-von-Stephan-Gemeinschaftsschule;56;50;;Frecher Spatz e.V.
+01K07;Hemingway-Schule;16;8;;tjfbg gGmbH
+01K08;Schule am Schillerpark;18;36;;ProFellow – Verein für Bildungsprojekte e. V.
+01K09;Hedwig-Dohm-Oberschule;25;25;;tjfbg gGmbH
+01S01;Schule am Zille-Park;12;14;;tjfbg gGmbH
+01Y02;John-Lennon-Gymnasium;20;15;;tjfbg gGmbH
+01Y08;Lessing-Gymnasium;9;9;;tjfbg gGmbH
+01Y09;Diesterweg-Gymnasium;50;83;;Intellego
+01Y11;Max-Planck-Gymnasium;37;45;;tjfbg gGmbH
+01Y12;Gymnasium-Tiergarten;30;29;;Frecher Spatz e.V.
+02G03;Justus-von-Liebig-Grundschule;7;7;;Intellego
+02G04;Pettenkofer Schule;11;;;tjfbg gGmbH
+02G09;Zille-Grundschule;7;7;;Studienkreis GmbH
+02G10;Modersohn-Grundschule Filiale Corintherstraße;5;5;;tjfbg gGmbH
+02G11;Thalia-Grundschule;6;3;;tjfbg gGmbH
+02G12;Kurt-Schumacher-Grundschule;23;20;;tjfbg gGmbH
+02G13;Charlotte-Salomon-Grundschule;20;18;;Lehrreich Wilmersdorf
+02G14;Galilei-Grundschule;28;27;;Studierende machen Schule
+02G16;Lenau-Grundschule;13;7;;Studienkreis GmbH
+02G18;Nürtingen-Grundschule;14;32;;tjfbg gGmbH
+02G19;Fanny-Hensel-Grundschule;2;;;
+02G20;Bürgermeister-Herz-Grundschule;13;;;
+02G22;Jens-Nydahl-Grundschule;35;35;;Studierende machen Schule
+02G23;Fichtelgebirge-Grundschule;8;7;;tjfbg gGmbH
+02G24;Otto-Wels-Grundschule;22;15;;tjfbg gGmbH
+02G26;Lemgo-Grundschule;14;;;
+02G27;Hunsrück-Schule;18;16;Hunsrück-Schule und Fanny- Hensel-Schule ;Studienkreis GmbH
+02G29;Heinrich-Zille-Grundschule;27;;;tjfbg gGmbH
+02G31;Adolf-Glaßbrenner-Grundschule;16;16;;Studierende machen Schule
+02G32;Clara-Grundwald-Grundschule;6;6;;Intellego
+02G33;Aziz-Nesin-Grundschule;26;24;;tjfbg gGmbH
+02G34;Jane-Goodall-Grundschule;14;;;
+02G35;Rosa-Parks-Grundschule;29;10;;tjfbg gGmbH
+02G36;Blumen-Grundschule;19;24;;tjfbg gGmbH
+02K01;Ellen-Key-Schule;29;29;;Intellego
+02K02;Carl-von-Ossietzky-Schule (Grundstufe);23;56;;tjfbg gGmbH
+02K02;Carl-von-Ossietzky-Schule (Oberstufe);23;;;tjfbg gGmbH
+02K03;Hector-Peterson-Schule;13;16;;tjfbg gGmbH
+02K04;Lina-Morgenstern-Schule;22;24;;Studienkreis GmbH
+02K05;Schule am Königstor;35;3;;tjfbg gGmbH
+02K06;Emanuel-Lasker-Schule;16;16;;Intellego
+02K08;Refik Veseli Schule;6;;;tjfbg gGmbH
+02K09;Albrecht-von-Gräfe-Schule;23;24;;duvia
+02K10;Ferdinand-Freiligrath-Schule;17;16;;Intellego
+02S03;Margarethe-von-Witzleben;10;10;;Studierende machen Schule
+02S06;Liebmann-Schule;12;20;;tjfbg gGmbH
+02Y01;Andreas-Gymnasium;16;16;;Intellego
+02Y03;Heinrich-Hertz-Gymnasium;3;3;;Intellego
+02Y06;Leibniz-Gymnasium;31;24;;Intellego
+02Y07;Robert-Koch-Gymnasium;16;;;
+02Y08;Hermann-Hesse-Gymnasium;30;32;;Intellego
+03G01;Schule am Hamburger Platz;11;7;;Intellego
+03G02;Heinrich-Roller-Grundschule;1;1;;Intellego
+03G04;Grundschule an der Marie;4;4;;Intellego
+03G06;Bötzow-Grundschule;22;12;;tjfbg gGmbH
+03G08;Grundschule am Planetarium;24;32;;tjfbg gGmbH
+03G10;Grundschule am Hohenfeld;36;72;;tjfbg gGmbH
+03G11;Schule am Falkplatz;14;14;;Studienkreis GmbH
+03G12;Paul-Lincke-Grundschule;7;7;;Intellego
+03G13;Rudolf-Dörrier-Grundschule;9;;;tjfbg gGmbH
+03G14;Bornholmer Grundschule;16;27;Bornholmer Grundschule, Schule am Falkplatz und C.- Humann-Grundschule ;Studienkreis GmbH
+03G15;Schule am Senefelderplatz;9;8;;tjfbg gGmbH
+03G16;Grundschule am Teutoburger Platz;30;32;;Intellego
+03G17;Grundschule am Weißen See;12;17;;Studienkreis GmbH
+03G20;Grundschule im Moselviertel;13;13;;Studienkreis GmbH
+03G21;Grundschule unter den Bäumen;23;8;;tjfbg gGmbH
+03G22;Grundschule am Wasserturm;23;;;
+03G23;Grundschule Alt-Karow;8;;;
+03G25;Carl-Humann-Grundschule;4;4;;Studienkreis GmbH
+03G26;Arnold-Zweig-Grundschule;5;;;
+03G27;Elizabeth-Shaw-Grundschule;12;7;;Studienkreis GmbH
+03G28;Hasengrund-Schule;5;;;
+03G29;Grundschule Am Sandhaus;21;;;
+03G32;Grundschule an den Buchen;13;16;;tjfbg gGmbH
+03G33;Jeanne-Barez-Schule;12;4;;tjfbg gGmbH
+03G34;Mendel-Grundschule;24;24;;Intellego
+03G35;Platanen-Grundschule;2;10;Evtl. verwechselt mit 02G35 Rosa Parks Grundschule;tjfbg gGmbH
+03G36;Elisabeth-Christinen-Grundschule;31;78;;tjfbg gGmbH
+03G37;Klecks Grundschule;31;30;;Studierende machen Schule
+03G38;Grundschule im Blumenviertel;33;14;;tjfbg gGmbH
+03G39;Grundschule Wolkenstein;17;;;
+03G40;Schule am Birkenhof;10;;;
+03G41;Trelleborg Grundschule;20;19;;Lernwerk GmbH
+03G43;Grundschule Wilhelmsruh;11;;;
+03G45;Grundschule im Hofgarten;8;8;;Intellego
+03G46;Grundschule am Eliashof;18;;;
+03G47/03S09;Schule an der Strauchwiese;4;;;
+03K01;Kurt-Schwitters-Schule;13;24;;tjfbg gGmbH
+03K02;Kurt-Tucholsky-Schule;Gesamtliste mit 03K05;12;;Lernwerk GmbH
+03K03;Konrad-Duden-Schule;13;13;;Intellego
+03K04;Gustave-Eiffel-Schule;12;12;;tjfbg gGmbH
+03K05;Heinz-Brandt-Schule;70;38;;Lernwerk GmbH
+03K07;Tesla-Schule - Sekundarstufe;18;38;;SOCIUS – Die Bildungspartner gGmbH
+03K07;Tesla-Schule - Grundstufe;16;;;tjfbg gGmbH
+03K08;Hagenbeck-Schule;47;24;;tjfbg gGmbH
+03K09;Janusz-Korczak-Schule;     Gesamtliste mit 03K05;20;;Lernwerk GmbH
+03K10;Hufeland-Schule;32;32;;djo Bildungswerk-Berlin gGmbH
+03K11;Wilhelm-von-Humboldt-Gemeinschaftsschule;10;16;;tjfbg gGmbH
+03Y03;Käthe-Kollwitz-Gymnasium;3;3;;Schlaufuchs eV
+03Y04;Heinrich-Schliemann-Gymnasium;61;;;Schlaufuchs eV
+03Y08;Carl-von-Ossietzky-Gymnasium;26;26;;Studienkreis GmbH
+03Y10;Rosa-Luxemburg-Gymnasium;     Gesamtliste mit 03Y08;;Evtl. Studienkreis GmbH;
+03Y13;Felix-Mendelssohn-Bartholdy-Gymnasium;38;;;
+03Y14;Primo-Levi-Gymnasium;20;;;
+03Y15;Max-Delbrück-Gymnasium;18;18;;Studienkreis GmbH
+03Y16;Robert-Havemann-Gymnasium;52;;;
+03Y17;Gymnasium am Europasportpark;24;;;
+04A08;Schule im Olympiapark Poelchau Oberschule;3;;;
+04G01;Eichendorff-Grundschule;9;9;;Lehrreich Wilmersdorf
+04G02;Lietzensee-Grundschule;11;;;
+04G04;Joan-Miró-Grundschule;11;;;
+04G06;Wald Grundschule;13;13;;tjfbg gGmbH
+04G08;Mierendorff-Schule;42;40;;Intellego
+04G09;Erwin-von-Witzleben-GS;11;;;tjfbg gGmbH
+04G11 A;Helmuth-James-von-Moltke Grundschule;32;41;;Lehrreich Wilmersdorf + ZGS Bildungs-GmbH (Schülerhilfe)
+04G11 B;Helmuth-James-von-Moltke Grundschule;69;;;
+04G13;Nehring-Grundschule;25;;;
+04G14;Reinhold-Otto-Grundschule;12;;;
+04G15;Charles-Dickens-GS;23;24;;Intellego
+04G18;Ernst-Habermann-Grundschule;6;6;;tjfbg gGmbH
+04G19;Grundschule am Rüdesheimer Platz;16;34;;Lehrreich Wilmersdorf
+04G20;Katharina-Heinroth-Grundschule;12;;;
+04G21;Halensee-Grundschule;13;18;;Lehrreich Wilmersdorf
+04G22;Grunewald-Grundschule;8;9;;Lehrreich Wilmersdorf
+04G23;Alt-Schmagendorf-Grundschule;4;;;
+04G25;Cecilien-Schule;9;11;;Studienkreis GmbH
+04G26;Birger-Forell-GS;7;7;;tjfbg gGmbH
+04G27;Judith-Kerr-Grundschule;7;;;
+04K02;Friedensburg-Schule;81;52;;Lehrreich Wilmersdorf
+04K03;Robert-Jungk-Schule;61;;;
+04K04;Nelson-Mandela-Schule;30;36;;ZGS Bildungs-GmbH (Schülerhilfe)
+04K05;Paula-Fürst-Schule;20;16;;Lehrreich Wilmersdorf
+04K06;Schule am Schloss (Integrierte Sekundarschule);53;;;Lehrreich Wilmersdorf
+04K07;Integrierte Sekundarschule Wilmersdorf;11;5;;Lehrreich Wilmersdorf
+04K08 ;Peter-Ustinov-Schule ;;8;;Lehrreich Wilmersdorf
+04K09;Otto-von-Guericke- Schule;10;10;;
+04S04 ;Reinfelder Schule ;;;;Lehrreich Wilmersdorf
+04S07;Comenius-Schule;6;;;Lehrreich Wilmersdorf
+04Y01;Schiller-Gymnasium;38;36;;Lehrreich Wilmersdorf
+04Y02;Wald-Gymnasium;33;28;;Studierende machen Schule
+04Y03;Sophie-Charlotte-Gymnasium;31;;;
+04Y04;Gottfried-Keller-Gymnasium;28;;;
+04Y05;Herder-Gymnasium;28;27;;Studierende machen Schule
+04Y06;Heinz-Berggruen-Gymnasium;4;;;
+04Y07;Friedrich-Ebert-Gymnasium;54;;;Lehrreich Wilmersdorf
+04Y08;Hildegard-Wegscheider-Gymnasium;34;33;;Studierende machen Schule
+04Y09;Walther-Rathenau-Gymnasium;20;19;;Lehrreich Wilmersdorf
+05G01;Ernst-Ludwig-Heim-Grundschule;42;42;;Studierende machen Schule 
+05G02;Grundschule am Eichenwald;13;13;;
+05G04;Klosterfeld-Grundschule;30;30;;Spandauer Jugend e.V. 
+05G05;Christoph-Földerich-Grundschule;6;;;
+05G06;Siegerland-Grundschule;55;64;;Intellego 
+05G08;Konkordia-Grundschule;20;20;;tjfbg gGmbH 
+05G10;Grundschule am Birkenhain;23;;;
+05G12;Grundschule am Weinmeisterhorn;11;11;;Studierende machen Schule 
+05G13;Bernd-Ryke-Grundschule;32;32;;Sozial-kulturelle Netzwerke casa e.V. 
+05G14;Linden-Grundschule;15;16;;Intellego 
+05G17;Astrid-Lindgren-Grundschule;24;32;;Intellego 
+05G18;Grundschule im Beerwinkel;5;5;;BGFF e.V.
+05G19;Grundschule am Ritterfeld;17;;Evtl. Träger mit Mary-Poppins verwechselt;BGFF e.V.
+05G20;Carl-Schurz-Grundschule;14;;;
+05G21;Paul-Moor-Grundschule;4;;;
+05G22;Christian-Morgenstern-Grundschule;28;10;;tjfbg gGmbH 
+05G23;Grundschule am Brandwerder;16;;;
+05G24;Grundschule am Windmühlenberg;1;;;
+05G25;Grundschule am Wasserwerk;9;;;tjfbg gGmbH 
+05G26;Grundschule am Amalienhof;10;18;;Intellego 
+05G27;Peter-Härtling-Grundschule;20;25;;Intellego 
+05G28;Grundschule an der Pulvermühle;30;;;Sozial-kulturelle Netzwerke casa e.V. 
+05G29;Mary-Poppins-Grundschule;5;;;
+05G30;Birken-Grundschule;22;24;;Intellego 
+05K01;Martin-Buber-Oberschule;26;16;;Studienkreis GmbH 
+05K02;Carlo-Schmid-Oberschule;62;;;
+05K03;Bertolt-Brecht-Oberschule;82;;;Sozial-kulturelle Netzwerke casa e.V. 
+05K04;Heinrich-Böll-Oberschule (Integrierte Sekundarschule);31;32;;Sozial-kulturelle Netzwerke casa e.V. 
+05K05;B.-Traven-Gemeinschaftsschule;52;55;;Sozial-kulturelle Netzwerke casa e.V. 
+05K06;Wolfgang-Borchert-Schule (Integrierte Sekundarschule);17;;;Sozial-kulturelle Netzwerke casa e.V. 
+05K07;Schule an der Jungfernheide;23;19;;Sozial-kulturelle Netzwerke casa e.V. 
+05K08;Schule an der Haveldüne;42;42;;tjfbg gGmbH 
+05K09;Schule am Staakener Kleeblatt;38;32;;Sozial-kulturelle Netzwerke casa e.V. 
+05Y01;Freiherr-von-Stein-Gymnasium;47;24;;Intellego 
+05Y02;Kant-Gymnasium;75;32;;Intellego 
+05Y03;Hans-Carossa-Gymnasium;25;;;Studierende machen Schule 
+05Y04;Carl-Friedrich-von-Siemens-Gymnasium;12;;;
+05Y05;Lily-Braun-Gymnasium;5;;;
+06G01;Nord Grundschule;13;13;;Lernwerk GMBH 
+06G02;Südgrundschule;16;16;;Tuned e.V. 
+06G03;Johannes-Tews-Grundschule;1;;;
+06G04 ;Erich-Kästner-Grundschule ;;1;;Lernwerk GMBH 
+06G05;Conrad-Schule;1;8;;tjfbg gGmbH 
+06G06;Mühlenau-Grundschule;1;1;;tjfbg gGmbH 
+06G07;Zinnowaldschule;10;12;;Lernwerk GMBH 
+06G08;Schweizerhof GS;10;10;;Intellego 
+06G09;Dreilinden-Grundschule;16;;;
+06G12;Quentin-Blake-Grundschule;8;7;;Lernwerk GMBH 
+06G14;Sachsenwald-Grundschule;30;31;;tjfbg gGmbH 
+06G17;Grundschule am Insulaner;14;16;;Lernwerk GMBH 
+06G18;Athene-GS;22;5;;tjfbg gGmbH 
+06G20;Alt-Lankwitzer-GS;4;8;;tjfbg gGmbH 
+06G21;Paul-Schneider-GS;41;;;
+06G23;Kronach-GS;5;8;;tjfbg gGmbH 
+06G25;Clemens-Brentano-Grundschule;12;12;;tjfbg gGmbH 
+06G26;Käthe-Kruse-Grundschule;Gesamtliste mit 06G23;;;
+06G27;Grundschule am Königsgraben;7;;;tjfbg gGmbH 
+06G28;Ludwig-Bechstein-Grundschule;7;14;;tjfbg gGmbH 
+06G29;Grundschule am Karpfenteich;8;6;;tjfbg gGmbH 
+06G30;Mercator-Grundschule;16;8;;schoolcoachBTL 
+06G31;Grundschule an der Bäke;52;;;
+06G33;Friedrich-Drake-Grundschule;9;10;;tjfbg gGmbH 
+06K01;John-F.-Kennedy-Schule;8;16;;Lernwerk GMBH 
+06K02;Wilma-Rudolph-Oberschule;100;;;Wilma-Rudolph-Oberschule Alumni-Netzwerk e.V. 
+06K03;Kopernikus-Schule (bis Kl. 10);46;;;
+06K04;Bröndby-Schule;32;32;;Intellego 
+06K08;Max-von-Laue-Schule;15;40;;tjfbg gGmbH 
+06K10;Helene-Lange-Schule;21;31;;Lernwerk GMBH 
+06K11;Anna-Essinger-Gemeinschaftsschule;14;;;
+06S01;Pestalozzi-Schule;7;;;
+06S02;Biesalski-Schule;4;8;;Lernwerk GMBH 
+06Y03;Arndt-Gymnasium;21;;;Wilma-Rudolph-Oberschule Alumni-Netzwerk e.V. 
+06Y04;Dreilinden-Gymnasium;20;30;;Intellego 
+06Y07;Paulsen-Gymnasium;5;;;
+06Y08;Hermann-Ehlers-Gymnasium;41;43;;Lehrreich Wilmersdorf
+06Y11;Goethe-Gymnasium;18;12;;Lernwerk GMBH 
+06Y12;Willi-Graf-Gymnasium;2;8;;Lernwerk GMBH 
+07G01;Spreewald;38;37;;Studierende machen Schule 
+07G02;Finow-Grundschule;35;27;;Lehrreich Wilmersdorf
+07G05;Havelland-Grundschule;8;7;;tjfbg gGmbH 
+07G06;Sternberg-Grundschule;23;24;;Studierende machen Schule 
+07G12;Scharmützelsee-Grundschule;21;21;;nbhs.de 
+07G13;Neumark-Grundschule;25;;;Studierende machen Schule 
+07G14;Löcknitz-Grundschule;15;13;;Lehrreich Wilmersdorf
+07G15;Fläming-Grundschule;23;;;
+07G16;Ruppin-Grundschule;3;3;;tjfbg gGmbH 
+07G17;Stechlinsee-Grundschule;2;;;
+07G18;Grundschule am Barbarossaplatz;4;;;
+07G19;Paul-Simmel-Grundschule;36;;;Studierende machen Schule 
+07G20;Maria-Montessori-Grundschule;31;32;;Intellego 
+07G21;Schule auf dem Tempelhofer Feld;35;;;
+07G22;Paul-Klee-Grundschule;8;8;;Intellego 
+07G23;Schätzelberg-Grundschule;36;12;Schätzelberg Grundschule und Ikarus-Grundschule ;Studienkreis GmbH 
+07G25;Mascha-Kaléko-Grundschule;13;12;;Studierende machen Schule 
+07G26;Grundschule im Taunusviertel;7;5;;Studierende machen Schule 
+07G27;Rudolf-Hildebrand-Grundschule;17;5;;tjfbg gGmbH 
+07G28;Kiepert-Grundschule;31;;;
+07G29;Käthe-Kollwitz-Grundschule;7;;;
+07G32;Bruno-H.-Bürgel-Grundschule;16;16;;Studierende machen Schule 
+07G35;Nahariya Grundschule;34;;;
+07G37;Ikarus Grundschule;Gesamtliste mit 07G23;;;Studienkreis GmbH 
+07K01;Sophie-Scholl-Schule;28;;;
+07K02;Carl-Zeiss-Schule;49;70;Evtl. nur 24 Schüler*innen;Lehrreich Wilmersdorf
+07K03;Gustav-Heinemann-Oberschule;38;18;;tjfbg gGmbH 
+07K04;Theodor-Haubach-Schule;23;;;
+07K06;Georg-von-Giesche-Schule;28;47;;Lehrreich Wilmersdorf
+07K07;Johanna-Eck-Schule;38;38;;
+07K09;Gustav-Langenscheidt-Schule;14;;;
+07K12;Friedenauer Gemeinschaftschule;42;;;
+07Y01;Robert-Blum-Gymnasium;25;;;
+07Y02;Rückert-Gymnasium;22;22;;tjfbg gGmbH 
+07Y03;Rheingau-Gymnasium;5;5;;Lehrreich Wilmersdorf
+07Y04;Paul-Natorp-Gymnasium;1;;;
+07Y05;Luise-Henriette-Gymnasium;21;16;L.-Henriette-Gymnasium und Askanisches Gymnasium ;Studienkreis GmbH 
+07Y06;Askanisches Gymnasium;4;;;Studienkreis GmbH 
+07Y07 ;Eckener-Gymnasium ;;31;;
+07Y08;Ulrich-von-Hutten-Schule;23;8;;Studienkreis GmbH 
+07Y09;Georg-Büchner-Gymnasium;37;65;;Lernwerk GmbH 
+08G01 ;Rixdorfer Schule;27;27;;tjfbg gGmbH 
+08G02 ;Theodor-Storm-Grundschule;4;;;
+08G03 ;Hans-Fallada-Grundschule;8;;;
+08G05 ;Elbe-Schule;5;5;;tjfbg gGmbH 
+08G06 ;Karl-Weise-Schule;;14;;IQ Quelle 
+08G07 ;Hermann-Boddin-Schule;13;;;tjfbg gGmbH 
+08G08 ;Karlsgarten-Schule;;30;;IQ Quelle 
+08G09 ;Regenbogen-Schule;18;;;ZGS Bildungs-GmbH (Schülerhilfe) 
+08G11 ;Schliemann-Grundschule ;;8;Schliemann-Grundschule und Michael-Ende-Grundschule ;tjfbg gGmbH 
+08G13 ;Bruno-Taut-Schule;16;;;
+08G17 ;Richard-Grundschule;58;44;;tjfbg gGmbH 
+08G19 ;Herman-Nohl-Schule;4;8;;Intellego 
+08G20 ;Sonnen-Grundschule;22;24;;tjfbg gGmbH 
+08G21 ;Silberstein-Schule;44;;;ZGS Bildungs-GmbH (Schülerhilfe) 
+08G22 ;Schule am Regenweiher;18;;;
+08G24 ;Schule am Teltowkanal;10;16;;Intellego 
+08G25 ;Michael-Ende-Schule;2;2;;tjfbg gGmbH 
+08G27 ;Oskar-Heinroth-Schule;14;;;tjfbg gGmbH 
+08G28 ;Matthias-Claudius-Grundschule;18;7;;tjfbg gGmbH 
+08G33 ;Schule am Fliederbusch;56;112;;Lernstudio Barbarossa Berlin Neukölln Rudow 
+08G34 ;Lisa-Tetzner-Schule (Grundschule);7;;;
+08G35 ;Schule in der Köllnischen Heide;38;;;
+08G36 ;Löwenzahn-Schule;16;;;Studierende machen Schule 
+08G37 ;Rose-Oehmichen-Schule;10;4;;tjfbg gGmbH 
+08K02 ;Hermann-von-Helmholtz-Schule;37;;;
+08K03 ;Otto-Hahn-Schule;51;51;;ProFellow – Verein für Bildungsprojekte e. V. 
+08K04 ;Heinrich-Mann-Schule;60;59;;Model eV 
+08K05 ;Clay-Schule;35;;;Studierende machen Schule 
+08K06 ;Fritz-Karsen-Schule (Gemeinschaftsschule);76;80;;Studierende machen Schule 
+08K08 ;Gemeinschaftsschule auf dem Campus Rütli - Weiterführend Schule;14;8;;Studienkreis GmbH 
+08K08 ;Gemeinschaftsschule auf dem Campus Rütli - Grundstufe ;8;;;
+08K10 ;Zuckmayer-Schule;24;20;;ProFellow – Verein für Bildungsprojekte e. V. 
+08K11 ;Alfred-Nobel-Schule;6;;;
+08K12 ;Kepler-Schule;39;;;
+08S04 ;Schule am Zwickauer Damm;4;;;
+08S08 ;Schilling-Schule;9;;;
+08Y01 ;Albrecht-Dürer-Gymnasium;39;;;
+08Y02 ;Albert-Schweitzer-Gymnasium;82;;;
+08Y03 ;Albert-Einstein-Gymnasium;34;;;
+08Y04 ;Ernst-Abbe-Gymnasiums;58;94;;Studierende machen Schule 
+08Y05 ;Leonardo-da-Vinci-Gymnasium;36;;;
+08Y06;Hannah-Arendt-Gymnasium;19;19;;Lernstudio Barbarossa Berlin Neukölln Rudow 
+09G01;Bouché-Schule;27;35;;tjfbg gGmbH 
+09G03;Grundschule am Heidekampgraben;3;;;
+09G04;Sonnenblumen-Grundschule;13;13;;Studienkreis GmbH 
+09G05;Schule am Ginkobaum;9;9;;Intellego 
+09G06;Melli-Beese-Schule;8;8;;Intellego 
+09G07;Schule an der alten Feuerwache;15;16;;tjfbg gGmbH 
+09G10;Schule am Berg;8;;;
+09G11;Schule am Pegasuseck;6;;;
+09G13;Schule am Altglienicker Wasserturm;13;13;;tjfbg gGmbH 
+09G14;Schule am Buntzelberg;15;45;;tjfbg gGmbH 
+09G15;Schule am Mohnweg;24;;;tjfbg gGmbH 
+09G16;Wendenschloss-Grundschule;15;;;Studienkreis GmbH 
+09G17;Uhlenhorst-Grundschule;5;6;;Studienkreis GmbH 
+09G18;Schule in der Köllnischen Vorstadt;44;40;;ZGS Bildungs-GmbH (Schülerhilfe) 
+09G19;Amtsfeld-Schule;35;14;Amtsfeld-Grundschule, Müggelheimer-Grundschule, Wendenschloß- Grundschule und Müggelschlößchen- Grundschule ;Studienkreis GmbH 
+09G20;Müggelheimer Grundschule;2;;;Studienkreis GmbH 
+09G21;Edison-Grundschule;10;8;;tjfbg gGmbH 
+09G22;Schule an der Wuhlheide;29;16;;tjfbg gGmbH 
+09G24;Müggelsee-Schule;6;;;
+09G25;Müggelschlößchen-Schule;5;;;Studienkreis GmbH 
+09G26;Schule an den Püttbergen;18;;;
+09G27;Friedrichshagener Schule;17;17;;Studierende machen Schule 
+09G30;Kiefholz-Grundschule;7;7;;tjfbg gGmbH 
+09K02;Anna-Seghers-Schule;18;10;;Studierende machen Schule 
+09K03;Fritz-Kühn-Schule;34;;;tjfbg gGmbH 
+09K04;Isaac-Newton-Schule;17;;;
+09K05;Wilhelm-Bölsche-Schule;42;13;;Studienkreis GmbH 
+09K06;Hans-Grade-Schule;17;;;
+09K07;Sophie-Brahe-Schule;9;;;Studienkreis GmbH 
+09K08;Schule an der Dahme;18;13;;Studienkreis GmbH 
+09Y03;Archenhold-Gymnasium;15;16;;Studierende machen Schule 
+09Y04;Anne-Frank-Gymnasium;69;52;;Studienkreis GmbH 
+09Y05;Alexander-von-Humboldt-Gymnasium;16;;;
+09Y06;Gerhart-Hauptmann-Gymnasium;Gesamtliste mit 09K05;;;Studienkreis GmbH 
+09Y10;Gebrüder-Montgolfier-Gymnasium;18;24;;Studienkreis GmbH 
+09Y11;Emmy-Noether-Gymnasium;38;16;;Studienkreis GmbH 
+10A04;Victor-Klemperer-Kolleg;60;60;;Lehrreich Wilmersdorf 
+10G01;Paavo-Nurmi-Schule;21;21;;Nachhilfe Berlin-Brandenburg 
+10G03;Selma-Lagerlöf-Grundschule;48;48;;Nachhilfe Berlin-Brandenburg 
+10G04;Falken-Grundschule;18;18;;Nachhilfe Berlin-Brandenburg 
+10G07;Karl-Friedrich-Friesen-Grundschule;32;86;;tjfbg gGmbH 
+10G08;Wilhelm-Busch-Grundschule;20;20;;Schlaufuchs eV 
+10G09;Grundschule am Bürgerpark;50;;;
+10G10;Peter-Pan-Grundschule;6;;;
+10G11;Grundschule an der Mühle;9;;;
+10G12;Grundschule an der Geißenweide;28;27;;Schlaufuchs eV 
+10G13;Johann-Strauß-Schule;10;10;;Schlaufuchs eV 
+10G14;Grundschule unter dem Regenbogen;44;41;;Schlaufuchs eV 
+10G16;Fuchsberg-Grundschule;17;18;;Schlaufuchs eV 
+10G17;Beatrix-Potter-Grundschule;30;16;;Studienkreis GmbH 
+10G18;Pusteblume-Grundschule;160;48;;ZGS Bildungs-GmbH (Schülerhilfe) 
+10G19;Bücherwurm-Schule am Weiher;9;;;
+10G22;Kolibri-Grundschule;42;29;;Schlaufuchs eV 
+10G25;Grundschule am Schleipfuhl;32;;;
+10G26;Friedrich-Schiller-Gymnasium;1;;;
+10G28;Grundschule am Hollerbusch;48;7;;tjfbg gGmbH 
+10G30;Mahlsdorfer-Grundschule;3;3;;Schlaufuchs eV 
+10G31;Franz-Carl-Achard-Grundschule;49;40;Franz-Carl-Achard- Grundschule und Mahlsdorfer Grundschule;
+10G33;Ulmen-Grundschule;2;2;;Schlaufuchs eV 
+10G34;34. Grundschule;2;2;;Nachhilfe Berlin-Brandenburg 
+10K01;Rudolf-Virchow-Oberschule;82;;;
+10K02;Ernst-Haeckel-Schule;13;28;;KIDS & CO g.e.V. 
+10K03;Kerschensteiner-Schule;3;;;
+10K05;Jean-Piaget Oberschule;54;27;;KIDS & CO g.e.V. 
+10K06;Georg Klingenberg Schule;39;;;Schlaufuchs eV 
+10K07;Caspar-David-Friedrich-Schule;27;27;;Schlaufuchs eV 
+10K08;Johann-Julius-Hecker-Schule;18;;;
+10K09;Konrad-Wachsmann-Schule;65;;;Schlaufuchs eV 
+10K10;Wolfgang-Amadeus-Mozart-Schule;41;16;;Studienkreis GmbH 
+10K11;Marcana-Schule;37;48;;Intellego 
+10K12;Gretel-Bergmann-Gemeinschaftsschule;52;;;
+10S07;Schule am Rosenain;23;;;
+10Y01;Tagore-Gymnasium;10;;;Schlaufuchs eV 
+10Y02;Otto-Nagel-Gymnasium;4;6;;Schlaufuchs eV 
+10Y03;Wilhelm-von-Siemens-Gymansium;19;18;;Schlaufuchs eV 
+10Y08;Sartre-Gymnasiums;57;59;;Schlaufuchs eV 
+10Y11;Melanchton-Gymnasium;37;;;
+11A07;Schul- und Leistungssportzentrum Berlin;5;;;
+11G01;Sonnenuhr-Schule;20;24;;Studierende machen Schule 
+11G03;Schule im Gutspark;15;16;;Intellego 
+11G06;Adam-Ries-Schule;30;32;;Intellego 
+11G07;Hermann-Gmeiner-Schule;17;;;
+11G08;Robinson-Schule;16;;;
+11G11;Bernhard-Grzimek-Schule;27;24;;tjfbg gGmbH 
+11G12;Lew-Tolstoi-Schule;16;;;
+11G14;Richard-Wagner-Schule;10;;;
+11G16;Schule an der Victoriastadt;22;;;
+11G17;Brodowin-Schule;54;8;;Intellego 
+11G18;Grundschule am Wilhelmsberg;24;24;;Intellego 
+11G21;Schule Am Faulen See;8;;;
+11G22;Martin-Niemöller-Grundschule;39;;;ZGS Bildungs-GmbH (Schülerhilfe) 
+11G23;Friedrichsfelder Schule;8;8;;Schlaufuchs eV 
+11G25;Grundschule am Wäldchen;11;11;;Schlaufuchs eV 
+11G26;Randow-Schule;32;32;;Schlaufuchs eV 
+11G28;Feldmark-Schule;67;;;
+11G31;Schmetterlings-Grundschule;32;;;ZGS Bildungs-GmbH (Schülerhilfe) 
+11G32;Hans-Rosenthal-Grundschule;23;23;;Schlaufuchs eV 
+11G34;34. Grundschule;9;;;
+11G35;35. Schule;8;;;tjfbg gGmbH 
+11K01;Alexander-Puschkin-Schule;9;;;
+11K02;Mildred-Harnack-Schule;40;;;tjfbg gGmbH 
+11K04;Gutenberg-Schule;24;20;;Studierende machen Schule 
+11K05;Fritz-Reuter-Oberschule;49;;;
+11K06;Schule am Rathaus;18;;;
+11K07;Vincent-van-Gogh-Schule;12;;;
+11K08;George-Orwell-Schule;8;;;
+11K09;Philipp-Reis-Schule;73;;;
+11K10;Grüner Campus Malchow - Grundstufe;44;96;;Schlaufuchs eV 
+11K10;Grüner Campus Malchow - Sekundarstufe;62;;;Schlaufuchs eV 
+11K11;Paul-Schmidt-Schule;66;64;;Intellego 
+11K12;Paul-und-Charlotte-Kniese-Schule;31;;;
+11S02;Schule am Fennpfuhl;1;;;
+11S05;Schule am grünen Grund;15;;;
+11S07;Carl-von-Linné-Schule;13;;;
+11Y02;Johann-Gottfried-Herder-Gymnasium;8;8;;Studienkreis GmbH 
+11Y05;Hans-und-Hilde-Coppi-Gymansium;21;;;Schlaufuchs eV 
+11Y09;Barnim Gymnasium;38;;;Schlaufuchs eV 
+11Y10;Manfred-von-Ardenne-Gymnasium;46;;;Schlaufuchs eV 
+11Y11;Immanuel-Kant-Gymnasium;21;21;;Schlaufuchs eV 
+12G01;Havelmüller-Grundschule;23;32;;Studienkreis GmbH 
+12G02;Grundschule am Schäfersee;18;;;
+12G03;Reginhard-Grundschule;19;11;;tjfbg gGmbH 
+12G04;Till-Eulenspiegel-Grundschule;28;32;;Studienkreis GmbH 
+12G05;Kolumbus-Grundschule;38;33;;Studierende machen Schule 
+12G06;Hausotter - Grundschule;28;28;;Intellego 
+12G07;Mark-Twain-Grundschule;20;;;Studierende machen Schule 
+12G09;Grundschule an der Peckwisch;26;;;
+12G10;Peter-Witte-Schule;7;;;
+12G11;Ringelnatz-Grundschule;6;;;
+12G12;Borsigwalder Grundschule;15;21;Borsigwalder Grundschule und Hermann-von Fallersleben- Grundschule ;Studienkreis GmbH 
+12G13;Franz-Marc-Grundschule;18;15;Evtl. Alfred-Brehm-Schule;Lieblingskinder 
+12G14;Alfred-Brehm-Schule;17;13;Evtl. Franz-Marc-Grundschule;Lieblingskinder 
+12G15;Hoffmann-von-Fallersleben;7;;;Studienkreis GmbH 
+12G19;Münchhausen-Grundschule;Gesamtliste mit 12G23;8;;Studienkreis GmbH 
+12G20;Grundschule am Vierrutenberg;11;;;
+12G21;Grundschule am Fließtal;13;;;
+12G22;Gustav-Dreyer-Schule;9;;;
+12G23;Victor-Gollancz-Grundschule;8;8;Evtl. Münchhausen Grundschule/ Viktor-Gollancz- Grundschule;Studienkreis GmbH 
+12G24;Renée-Sintenis-Grundschule;2;;;
+12G26;Märkische Grundschule;24;24;;Intellego 
+12G29;Hermann-Schulz-Grundschule;24;;;
+12G30;Reineke-Fuchs-Grundschule;17;;;
+12G32;Charlie-Chaplin-Grundschule;14;16;;Intellego 
+12G33;Lauterbach-Schule;37;34;;tjfbg gGmbH 
+12K01;Julius-Leber-Schule;16;;;
+12K02;Bettina-von-Arnim-Schule;79;94;;Intellego 
+12K03;Max-Beckmann-Oberschule;46;;;
+12K05;Gustav-Freytag-Schule;9;;;
+12K06;Benjamin-Franklin-Schule;2;;;
+12K07;Jean-Krämer-Schule;25;73;Evtl. Albrecht-Haushofer-Schule;Intellego 
+12K09;Carl-Benz-Schule (Integrierte Sekundarschule);15;;;
+12K10;Carl-Bosch-Schule;32;32;;tjfbg gGmbH 
+12K11;Albrecht-Haushofer-Schule;28;16;;Intellego 
+12K12;Campus Hannah Höch;12;;;
+12S05;Wiesengrund-Schule;1;;;
+12Y01;Friedrich-Engels-Gymnasium;23;;;
+12Y02;Europäisches Gymnasium Bertha-von-Suttner;44;;;
+12Y03;Humboldt-Gymnasium;15;;;
+12Y04;Gabriele-von-Bülow-Gymnasium;65;;;
+12Y05;Georg-Herwegh-Gymnasium;89;78;;Lernwerk GmbH 
+12Y06;Schulfarm Insel Scharfenberg;13;;;
+12Y07;Romain-Roland-Gymnasium;39;;;
+12Y08;Thomas-Mann-Gymnasium;48;48;;Studienkreis GmbH 
